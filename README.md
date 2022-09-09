@@ -1,7 +1,7 @@
 ### Olá, Sou Yuri Lins. Fico feliz em ter você por aqui! 👋
 
 - 🚀 Atualmente trabalho como Fullstack Developer | Blockchain Developer
-- 📚 Atualmente estou estudando Solidity, GO, Kubernetes e me buscando sempre mais conhecimento nas demais linguagens.
+- 📚 Diariamente estudo Solidity, GO, Kubernetes e buscando sempre aperfeiçoar o conhecimento nas demais linguagens.
 - ✝️ Jesus é o único caminho. 
 
 
