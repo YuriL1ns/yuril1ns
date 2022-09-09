@@ -7,7 +7,7 @@
 </h1>
 
 - 🚀 Atualmente trabalho como Fullstack Developer | Blockchain Developer
-- 📚 Diariamente estudo Solidity, GO, Kubernetes e buscando sempre aperfeiçoar o conhecimento nas demais linguagens.
+- 📚 Diariamente estou buscando aprimorar meus conhecimentos sobre arquitetura, testes, performace e melhores práticas de desenvolvimento.
 - ✝️ Jesus é o único caminho. 
 
 
