@@ -1,4 +1,10 @@
-### Olá, Sou Yuri Lins. Fico feliz em ter você por aqui! 👋
+<h1 align='center'>
+ <strong>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+   Bem vindo ao meu perfil
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+ </strong>
+</h1>
 
 - 🚀 Atualmente trabalho como Fullstack Developer | Blockchain Developer
 - 📚 Diariamente estudo Solidity, GO, Kubernetes e buscando sempre aperfeiçoar o conhecimento nas demais linguagens.
@@ -34,13 +40,71 @@
           
 </div>
 
+ + ### Front-end
+
+<div style="margin-bottom: 5px;">
+ <img alt="React" height="25" align="center" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+ <img alt="NextJS" height="25" align="center" src="https://img.shields.io/badge/NextJS-20232A?style=flat&logo=next.js&logoColor=white"/>
+ <img alt="TypeScript" height="25" align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+ <img alt="SASS" height="25" align="center" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+ <img alt="Tailwind" height="25" align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+ <img alt="Styled-Components" height="25" align="center" src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
+</div>
+
+<div style="margin-top: 30px;">
+ <img alt="Bootstrap" height="25" align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+ <img alt="Material--UI" height="25" align="center" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" />
+ <img alt="Material--UI" height="25" align="center" src="https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white" />
+</div>
+<br>
+
+ + ### Back-end
+<div>
+ <img alt="NodeJS" height="25" align="center" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+ <img alt="Express" height="25" align="center" src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+ <img alt="TypeScript" height="25" align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+
+</div>
+<br>
+
+ + ### Deploys and Database
+<div>
+ <img alt="Vercel" height="25" align="center" src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+ <img alt="Heroku" height="25" align="center" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
+ <img alt="Netlify" height="25" align="center" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+ <img alt="PostgreSQL" height="25" align="center" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+ <img alt="MongoDB" height="25" align="center" src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+ <img alt="Oracle" height="25" align="center" src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+ <img alt="Firebase" height="25" align="center" src="https://img.shields.io/badge/-firebase-ffca28?style=flat&logo=firebase&logoColor=black" />
+</div>
+<br>
+
 ##
+
+## 📫 Mídias sociais 📫
+<div>
+<!--    <a href="https://darkwood.fr"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a> -->
+ <a href="mailto:dev.yurilins@gmail.com" target="_blank">
+   <img height="50" width="50" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/>
+ </a>
+ <a href="https://instagram.com/yurilins_" target="_blank">
+   <img height="50" width="50" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/>
+ </a>
+ <a href="https://www.linkedin.com/in/yuri-lins-304a0523a" target="_blank">
+   <img height="50" width="50" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/>
+ </a>
+   <a href="https://www.youtube.com/channel/UCma7k1JI6HVex593sEGGkGQ" target="_blank">
+    <img height="50" width="50" src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/>
+ </a>
+  </a>
+   <a href="https://api.whatsapp.com/send?phone=5577988756739" target="_blank">
+    <img height="50" width="50" src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="whatsapp"/>
+ </a>
+</div>
  
 <div> 
 
-  <a align="center" href="https://instagram.com/yurilins_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a align="center" href = "mailto:dev.yurilins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a align="center" href="https://www.linkedin.com/in/yuri-lins-304a0523a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
